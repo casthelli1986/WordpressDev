@@ -13,3 +13,4 @@ Está relacionado com o conteúdo publicado em [Desenvolvimento de temas Wordpre
 # Histórico do projeto no site
 - [Ambiente de desenvolvimento com Docker Compose](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/ambiente-de-desenvolvimento-com-docker-compose)
 - [Como preparar o Wordpress para o desenvolvimento?](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/como-preparar-o-wordpress-para-o-desenvolvimento)
+- [Como começar a criar um tema Wordpress?](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/como-comecar-a-criar-um-tema-wordpress)
