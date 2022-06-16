@@ -17,3 +17,4 @@ Está relacionado com o conteúdo publicado em [Desenvolvimento de temas Wordpre
 - [Como preencher as informações do tema](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/como-preencher-as-informacoes-do-tema)
 - [Bootstrap e estilização no Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/bootstrap-e-estilizacao-no-wordpress)
 - [HTML da página principal](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/html-da-pagina-principal)
+- [Inserindo as primeiras funções PHP no Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/inserindo-as-primeiras-funcoes-php-no-wordpress) 
