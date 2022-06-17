@@ -14,6 +14,8 @@ function phototricks_setup_theme() { // Minha função personalizada
     add_theme_support('automatic-feed-links'); // Geração automática de links para leitores de Feed RSS
 
     $GLOBALS['content_width'] = 1130; // Largura total do conteúdo, para o ajuste de imagens e vídeos incorporados
+
+    load_theme_textdomain( 'phototricks', get_template_directory() . '/languages' ); // Aponta para a pasta de traduções do tema
 }
 
 add_action('after_setup_theme', 'phototricks_setup_theme'); // Chamada da função personalizada com as configurações de suporte do tema

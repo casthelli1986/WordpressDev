@@ -19,3 +19,4 @@ Está relacionado com o conteúdo publicado em [Desenvolvimento de temas Wordpre
 - [HTML da página principal](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/html-da-pagina-principal)
 - [Inserindo as primeiras funções PHP no Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/inserindo-as-primeiras-funcoes-php-no-wordpress) 
 - [Hooks (ganchos) do Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/hooks-ganchos-do-wordpress)
+- [Adicionando suporte para vários idiomas (internacionalização) no tema Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/adicionando-suporte-para-varios-idiomas-internacionalizacao-no-tema-wordpress)

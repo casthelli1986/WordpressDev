@@ -80,7 +80,7 @@
         <div class="container border-top text-center text-light py-3">
             <p class="mb-0">
                 <small>
-                    Tema de estudo Wordpress | Desenvolvido por <a href="https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress" target="_blank" class="text-light"><b>Phototricks</b></a>
+                    <?php _e( 'Wordpress Study Theme | Developed by', 'phototricks' ); ?> <a href="https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress" target="_blank" class="text-light"><b>Phototricks</b></a>
                 </small>
             </p>
         </div>

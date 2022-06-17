@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordpressDev\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-17 14:32+0000\n"
+"PO-Revision-Date: 2022-06-17 14:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: phototricks"
+
+#. Description of the theme
+msgid ""
+"Este tema pertence a um projeto público onde eu compartilho meus estudos "
+"sobre a criação de um tema de Wordpress."
+msgstr ""
+"Este tema pertence a um projeto público onde eu compartilho meus estudos "
+"sobre a criação de um tema de Wordpress."
+
+#. Author URI of the theme
+msgid "https://phototricks.art.br/"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress"
+msgstr ""
+
+#. Author of the theme
+msgid "Patrick Castheliano"
+msgstr ""
+
+#: index.php:83
+msgid "Wordpress Study Theme | Developed by"
+msgstr "Tema de estudo Wordpress | Desenvolvido por"
+
+#. Name of the theme
+msgid "WordpressDev"
+msgstr ""
