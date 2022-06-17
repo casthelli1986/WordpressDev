@@ -18,3 +18,4 @@ Está relacionado com o conteúdo publicado em [Desenvolvimento de temas Wordpre
 - [Bootstrap e estilização no Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/bootstrap-e-estilizacao-no-wordpress)
 - [HTML da página principal](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/html-da-pagina-principal)
 - [Inserindo as primeiras funções PHP no Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/inserindo-as-primeiras-funcoes-php-no-wordpress) 
+- [Hooks (ganchos) do Wordpress](https://wiki.phototricks.art.br/books/desenvolvimento-de-temas-wordpress/page/hooks-ganchos-do-wordpress)
